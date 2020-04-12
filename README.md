@@ -1,7 +1,8 @@
 # ProjetImageProcessing
 Numpy ,Pillow , and Matplotlib for image processing
 
-In this project we used those libraries to do some image processing as : 
+In this project we used those libraries to do some image processing :
+
 -open image as numpy array	
 
 -manipulation of numpy array
